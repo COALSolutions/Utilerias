@@ -1,7 +1,7 @@
 export default {
     "development":
     {
-        "port": 6001,
+        "port": 4001,
         "seguridad": {
             "host": "54.68.19.8",
             "port": 6000,

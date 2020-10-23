@@ -2,7 +2,7 @@ export default {
     "development" :
     {
         "host": "54.68.19.8",
-        "port": 6002,
+        "port": 4002,
         "method": "POST",
         "headers": {
             "Content-Type":  "multipart/form-data"
