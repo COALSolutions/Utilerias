@@ -1,10 +1,10 @@
 export default {
     "development":
     {
-        "port": 5030,
+        "port": 6001,
         "seguridad": {
             "host": "54.68.19.8",
-            "port": 5001,
+            "port": 6000,
             "method": "POST",
             "headers": {
                 "Content-Type": "multipart/form-data"
